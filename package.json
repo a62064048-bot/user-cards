@@ -1,0 +1,18 @@
+{
+  "name": "user-cards",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "antd": "^5.24.0",
+    "vite": "latest",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {}
+}
